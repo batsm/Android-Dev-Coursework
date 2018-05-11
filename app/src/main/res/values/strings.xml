@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game App</string>
+    <string name="title_activity_level2_select_screen">Level2_select_screen</string>
+
+    <string name="title_activity_level_2_select_screen">Level_2_select_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
